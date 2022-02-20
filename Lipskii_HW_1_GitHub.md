@@ -127,7 +127,7 @@
 в `commit new file` пишем `create bug_report` нажимаем `Commit new file`
 
 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON\
-открыть файл нажать `bug_report.json` нажать `edit this file`
+открыть файл, нажать `bug_report.json` нажать `edit this file`
 
 ```json
 {
@@ -198,7 +198,7 @@
         <junior>80.000 rub</junior> 
         <middle>190.000 rub</middle>
         <senior>320.000+ rub</senior>
-    </salary>
+	</salary>
 </person>
 ```
 
@@ -276,7 +276,7 @@
 в `commit new file` пишем `create bug_report` нажимаем `Commit new file`
 
 16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML\
-открыть файл нажать `bug_report.xml` нажать `edit this file`
+открыть файл, нажать `bug_report.xml` нажать `edit this file`
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -285,13 +285,13 @@
  <id>88</id>
  <summary>Результат умножения неверен</summary>
  <description>Результат равен ожидаемому результату +2</description>
-    <stepsToReproduce>
-     <step1>Открыть сайт https://nuix.github.io/SDET/senior-sdet/stagingCalc/index.html</step1>
-     <step2>Нажать цифру 6</step2>
-     <step3>Нажать знак умножения</step3>
-     <step4>Нажать цифру 3</step4>
-     <step5>Нажать знак равно</step5>
-  </stepsToReproduce>
+	<stepsToReproduce>
+	<step1>Открыть сайт https://nuix.github.io/SDET/senior-sdet/stagingCalc/index.html</step1>
+	<step2>Нажать цифру 6</step2>
+	<step3>Нажать знак умножения</step3>
+	<step4>Нажать цифру 3</step4>
+	<step5>Нажать знак равно</step5>
+ </stepsToReproduce>
  <actualResult>20</actualResult>
  <expectedResult>18</expectedResult>
  <attachments>https://somup.com/c3nq02TjpH</attachments>
@@ -299,9 +299,9 @@
  <priority>High</priority>
  <labels>Smoke</labels>
  <environment>
-  <operationalSystem>macOS Big Sur 11.6.4</operationalSystem>
-  <browserVersion>Google Chrome 98.0.4758.102</browserVersion>
-  </environment>
+	<operationalSystem>macOS Big Sur 11.6.4</operationalSystem>
+	<browserVersion>Google Chrome 98.0.4758.102</browserVersion>
+ </environment>
  <author>Igor Lipskii</author>
  <testData>20.02.2022</testData>
  </bugReport>
@@ -422,7 +422,7 @@ Skills:
 в `commit new file` пишем `create bug_report` нажимаем `Commit new file`
 
  16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT\
-открыть файл нажать `bug_report.txt` нажать `edit this file`
+открыть файл, нажать `bug_report.txt` нажать `edit this file`
 
 ```txt
 Project: Calculator
