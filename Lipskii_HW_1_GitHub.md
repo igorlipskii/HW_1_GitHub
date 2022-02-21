@@ -25,7 +25,7 @@
 ```json
 {
 	"Name": "Igor",
-	"Surname": "Lipskii"
+	"Surname": "Lipskii",
 	"Age": 33,
 	"Pet": "No pets",
 	"Salary": {
@@ -192,13 +192,13 @@
 <person>
     <name>Igor</name>
     <surname>Lipskii</surname>
-	<age>33</age>
-	<pets>no pets</pets>
-	<salary>
-        <junior>80.000 rub</junior> 
-        <middle>190.000 rub</middle>
-        <senior>320.000+ rub</senior>
-	</salary>
+    <age>33</age>
+    <pets>no pets</pets>
+    <salary>
+	<junior>80.000 rub</junior> 
+	<middle>190.000 rub</middle>
+	<senior>320.000+ rub</senior>
+    </salary>
 </person>
 ```
 
