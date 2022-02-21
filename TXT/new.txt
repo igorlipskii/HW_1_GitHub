@@ -1,0 +1,7 @@
+Name: Igor Lipskii
+Age: 33
+Pet: no pets
+Salary: 
+	1. Junior - 80.000 rub.
+	2. Middle - 190.000 rub.
+	3. Senior - 320.000+ rub.

@@ -1,0 +1,17 @@
+{
+	"My preferences": {
+		"Film": "John Carter",
+		"Series": "La casa de papel",
+		"Food": [
+			"pasta",
+ 			"vegetables",
+			"meat"
+		],
+		"Season": "Summer",
+		"Place to visit": [
+			"USA",
+			"Japan",
+			"New Zealand"
+		]
+	}
+}
