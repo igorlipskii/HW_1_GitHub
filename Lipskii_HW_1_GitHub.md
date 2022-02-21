@@ -47,7 +47,7 @@
 `touch preferences.json`
 
 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON\
-`vim new.json`\
+`vim preferences.json`\
 `i` — перейти в режим редактирования
 
 ```json
@@ -131,29 +131,29 @@
 
 ```json
 {
-	"Project": "Calculator",
-	"ID": 88,
+    "Project": "Calculator",
+    "ID": 88,
     "Summary": "Результат умножения неверен",
     "Description": "Результат равен ожидаемому результату +2",
     "Steps to reproduce": {
-        "Step 1": "Открыть сайт https://nuix.github.io/SDET/senior-sdet/stagingCalc/index.html",
-		"Step 2": "Нажать цифру 6",
-		"Step 3": "Нажать знак умножения",
-		"Step 4": "Нажать цифру 3",
-		"Step 5": "Нажать знак равно"
-	},
-	"Actual result": 20,
-	"Expected result": 18,
-	"Attachments": "https://somup.com/c3nq02TjpH",
-	"Severity": "Critical",
-	"Priority": "High",
-	"Labels": "Smoke",
-	"Environment": {
-        "Operational system": "macOS Big Sur 11.6.4",
-        "Browser version": "Google Chrome 98.0.4758.102"
+	"Step 1": "Открыть сайт https://nuix.github.io/SDET/senior-sdet/stagingCalc/index.html",
+	"Step 2": "Нажать цифру 6",
+	"Step 3": "Нажать знак умножения",
+	"Step 4": "Нажать цифру 3",
+	"Step 5": "Нажать знак равно"
     },
-	"Author": "Igor Lipskii",
-	"Test Data": "20.02.2022"
+    "Actual result": 20,
+    "Expected result": 18,
+    "Attachments": "https://somup.com/c3nq02TjpH",
+    "Severity": "Critical",
+    "Priority": "High",
+    "Labels": "Smoke",
+    "Environment": {
+	"Operational system": "macOS Big Sur 11.6.4",
+	"Browser version": "Google Chrome 98.0.4758.102"
+    },
+    "Author": "Igor Lipskii",
+    "Test Data": "20.02.2022"
 }
 ```
 `esc` `:` `wq`
