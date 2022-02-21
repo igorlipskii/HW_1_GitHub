@@ -1,4 +1,4 @@
-## JSON
+#### JSON
 1. Создать внешний репозиторий c названием JSON\
 Заходим на [GitHub](https://github.com/) нажать `+` в `New repository` вводим имя `JSON` нажать `Create repository`
 
@@ -164,7 +164,7 @@
 17. Синхронизировать внешний и локальный репозиторий JSON\
 `git pull`
 
-## XML
+#### XML
 1. Создать внешний репозиторий c названием XML\
 Заходим на [GitHub](https://github.com/) нажать `+` в `New repository` вводим имя `XML` нажать `Create repository`
 
@@ -312,7 +312,7 @@
 18. Синхронизировать внешний и локальный репозиторий XML\
 `git pull`
 
-## TXT
+#### TXT
 1. Создать внешний репозиторий c названием TXT\
 Заходим на [GitHub](https://github.com/) нажать `+` в `New repository` вводим имя `TXT` нажать `Create repository`
 
